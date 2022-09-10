@@ -66,7 +66,7 @@ export default function App() {
         </View>
 
         <View style={styles.areaValor}>
-          <Text style={styles.title}>Slecione um valor para converter em (R$) </Text>
+          <Text style={styles.title}>Selecione um valor para converter em (R$) </Text>
 
           <TextInput
             placeholder='EX: 150'
